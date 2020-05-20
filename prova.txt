@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Andrea
 =======
 Andrea Grandieri
 >>>>>>> c5a3a5e55a5a40f1c90d86d90f913f77b7aa768c
+=======
+Lorenzo
+Franco
+
+Giuseppe
+>>>>>>> d588f271bb7d4a5f02426002c9a0ea9109d76426
