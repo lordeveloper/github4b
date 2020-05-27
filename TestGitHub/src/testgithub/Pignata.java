@@ -10,5 +10,5 @@ package testgithub;
  * @author marce
  */
 public class Pignata {
-    System.out.println("o");
+    int a;
 }
