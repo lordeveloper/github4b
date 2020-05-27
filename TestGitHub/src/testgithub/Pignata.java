@@ -10,5 +10,5 @@ package testgithub;
  * @author marce
  */
 public class Pignata {
-    int a;
+    int ac;
 }
